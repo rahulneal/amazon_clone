@@ -65,6 +65,9 @@ function Login() {
             </form>
         
         </div>
+        
+ 
+        <small className='developer'>Developed By Rahul tak</small>
     </div>
   
   )
